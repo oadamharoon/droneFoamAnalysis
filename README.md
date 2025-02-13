@@ -29,7 +29,7 @@ cd $FOAM_RUN/droneAnalysis/system
 
 nano blockMeshDict
 
-```Copy everything from the attached code between "// system/blockMeshDict" and the next section marker```
+Copy everything from the code between "// system/blockMeshDict" and the next section marker
 
 # 4. Create and fill initial conditions for velocity
 
@@ -37,13 +37,13 @@ cd ../0
 
 nano U
 
-# Copy everything from the code between "// 0/U" and the next section marker
+Copy everything from the code between "// 0/U" and the next section marker
 
 # 5. Create and fill pressure conditions
 
 nano p
 
-# Copy everything from the code between "// 0/p" and the next section marker
+Copy everything from the code between "// 0/p" and the next section marker
 
 # 6. Back to system directory for controlDict
 
@@ -51,13 +51,13 @@ cd ../system
 
 nano controlDict
 
-# Copy everything from the code between "// system/controlDict" and the next section marker
+Copy everything from the code between "// system/controlDict" and the next section marker
 
 # 7. Create and fill snappyHexMeshDict
 
 nano snappyHexMeshDict
 
-# Copy everything from the code between "// system/snappyHexMeshDict" to the end
+Copy everything from the code between "// system/snappyHexMeshDict" to the end
 
 # 8. Generate the basic mesh
 
