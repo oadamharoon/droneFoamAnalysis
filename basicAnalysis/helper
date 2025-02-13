@@ -1,0 +1,3 @@
+# Preview the STL surface
+surfaceTransformPoints "scale=(1.0 1.0 1.0)" constant/triSurface/drone_scaled.stl check.stl
+check.stl paraview check.stl
