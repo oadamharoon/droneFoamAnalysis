@@ -1,5 +1,5 @@
 # droneFoamAnalysis
-OpenFOAM CFD analysis for drones.
+OpenFOAM CFD analysis for fixed-wing UAVs.
 
 # 1. Create a new case directory
 
