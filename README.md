@@ -1,10 +1,6 @@
 # droneFoamAnalysis
 OpenFOAM CFD analysis for drones.
 
-I am trying to run a basic aerodynamic analysis of my drone STL in OpenFoam, I am new to the software and want to run a basic simulation to learn how it works. 
-
-I have already completed the following steps
-
 # 1. Create a new case directory
 
 mkdir -p $FOAM_RUN/droneAnalysis
